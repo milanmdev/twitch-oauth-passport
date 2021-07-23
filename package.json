@@ -1,0 +1,29 @@
+{
+  "name": "twitch-oauth-passport",
+  "version": "1.0.2",
+  "description": "Passport strategy for Twitch OAuth",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milanmdev/twitch-oauth-passport.git"
+  },
+  "keywords": [
+    "passport",
+    "twitch",
+    "oauth",
+    "oauth2"
+  ],
+  "author": "Milan Mehra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/milanmdev/twitch-oauth-passport/issues"
+  },
+  "homepage": "https://github.com/milanmdev/twitch-oauth-passport#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "passport-oauth2": "^1.5.0"
+  }
+}
